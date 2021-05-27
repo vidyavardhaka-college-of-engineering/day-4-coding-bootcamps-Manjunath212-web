@@ -14,7 +14,8 @@
 
 int main()
 {
-   //Declare all the variables[N, array a & array b, i] used in the code
+   int arr1[100],arr2[100];
+   int//Declare all the variables[N, array a & array b, i] used in the code
    //Read the Value of N using scanf statement
    //Read the array elements using for loop and scanf statment
    //Copy the elements of array 'a'[first array] to  array 'b'[second array] using for loop
